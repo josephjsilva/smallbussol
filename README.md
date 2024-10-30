@@ -1,1 +1,3 @@
 # smallbussol
+
+Website for Small Business Solutions...
